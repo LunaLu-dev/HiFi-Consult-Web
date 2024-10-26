@@ -1,0 +1,12 @@
+.history-page{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.history-event{
+  display: inline-block;
+}
+
+strong{
+  color: var(--main-theme-color-1);
+  font-weight: bold;
+}

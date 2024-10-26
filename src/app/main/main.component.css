@@ -1,0 +1,14 @@
+.grid-buttons{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  cursor: pointer;
+
+}
+.grid-button{
+  display: inline-block;
+}
+
+.grid-button > img{
+  border-radius: 25%;
+  width: 80%;
+}

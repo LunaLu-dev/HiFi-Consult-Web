@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import {NgOptimizedImage} from '@angular/common';
 
 @Component({
-  selector: 'app-history',
+  selector: 'app-history-img',
   standalone: true,
   imports: [
     NgOptimizedImage
